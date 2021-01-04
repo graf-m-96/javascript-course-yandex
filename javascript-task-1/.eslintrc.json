@@ -1,0 +1,7 @@
+{
+  "extends": "hrundel/node",
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "script"
+  }
+}

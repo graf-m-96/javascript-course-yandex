@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "main": "math.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "eslint . && mocha test"
+  },
+  "dependencies": {
+    "babel-eslint": "8.0.1",
+    "eslint": "4.7.2",
+    "eslint-config-hrundel": "latest",
+    "mocha": "3.5.3"
+  },
+  "devDependencies": {
+    "stylelint": "7.3.1",
+    "stylelint-config-hrundel": "1.0.3"
+  }
+}
